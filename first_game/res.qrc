@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>good/5ad518cc92cd9437.jpg</file>
+        <file>good/-7ff4a4929d1b0312.jpg</file>
+        <file>good/-416435057b08ef15.jpg</file>
+        <file>good/61433109573d2201.jpg</file>
+        <file>good/1586707363346.jpeg</file>
+        <file>good/amagi.wav</file>
+        <file>good/back.jpg</file>
+        <file>good/back.png</file>
+        <file>good/background.jpg</file>
+        <file>good/Ctrl.wav</file>
+        <file>good/jitang.wav</file>
+        <file>good/level.png</file>
+        <file>good/neg.jpg</file>
+        <file>good/nope.jpg</file>
+        <file>good/null-1bcc19f70a2eac66.jpg</file>
+        <file>good/playyourmom.png</file>
+        <file>good/pos.jpg</file>
+        <file>good/start.png</file>
+        <file>good/success.jpg</file>
+        <file>good/zhiyin.wav</file>
+        <file>good/fan.png</file>
+        <file>good/zheng.jpg</file>
+        <file>good/win.png</file>
+        <file>good/seeyourmom.wav</file>
+        <file>good/wa.wav</file>
+        <file>good/xian_1.wav</file>
+        <file>good/xue.wav</file>
+        <file>good/playyourmom.wav</file>
+    </qresource>
+</RCC>
